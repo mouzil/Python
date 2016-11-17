@@ -46,3 +46,6 @@ print(liste[2:])
 
 a = ['a','b','c','d','e','f','g','h']
 print(a[:4])
+
+#
+print(liste[2:])
